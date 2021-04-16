@@ -1,0 +1,10 @@
+ufw allow 90/tcp
+
+http://192.168.0.128:90/iclock/cdata?SN=CKJF201260028&table=rtlog
+time=2020-06-11 10:02:28    pin=100 cardno=0        eventaddr=1     event=3 inoutstatus=1   verifytype=15           index=598       sitecode=0      linkid=0        maskflag=0      temperature=36.91
+
+http://192.168.0.128:90/iclock/cdata?SN=CKJF201260028&table=rtstate
+time=2020-06-11 10:02:28    sensor=02      relay=00        alarm=0100000000000000  door=01
+
+
+http://192.168.0.128:90/iclock/ping?SN=CKJF201260028
