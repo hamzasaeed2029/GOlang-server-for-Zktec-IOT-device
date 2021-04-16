@@ -9,3 +9,9 @@ Run a postman test (Sample file attached). The script will read the URL and its 
 Please feel free to make pull request to make it better.
 All rights reserved.
 * Not for commercial use !
+
+
+#### ping Me on :
+[![Github](https://img.shields.io/badge/Github-hamzasaeed2029-green?style=for-the-badge&logo=github)](https://github.com/hamzasaeed2029)
+
+
